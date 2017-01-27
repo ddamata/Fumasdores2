@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Traza>
+  <Hecho>
+    <Hora>09:57:19</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:01:43</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:01:44</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>15:52:57</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>15:52:57</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>15:57:39</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>15:57:39</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Tabaco</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>15:57:47</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>15:58:01</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>15:58:06</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>15:58:19</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>15:58:37</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>15:59:07</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>15:59:07</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>22:40:45</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>22:40:56</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>22:41:29</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Tabaco</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>22:42:16</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>22:43:51</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:37:44</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:37:55</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:38:16</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:38:30</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:39:02</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Tabaco</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:49:29</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:49:51</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:50:10</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Tabaco</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:50:41</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:50:55</Hora>
+    <Actor>Vendedor</Actor>
+    <Accion>Agrego ingrediente Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:51:53</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Papel</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:52:03</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Fosforo</Accion>
+  </Hecho>
+  <Hecho>
+    <Hora>10:52:14</Hora>
+    <Actor>Fumador(Tabaco)</Actor>
+    <Accion>Agarro ingrediente del Banco Tabaco</Accion>
+  </Hecho>
+</Traza>
